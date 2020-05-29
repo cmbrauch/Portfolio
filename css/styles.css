@@ -1,0 +1,21 @@
+h1 {
+    color: blue
+}
+
+h2 {
+  font-style: initial;
+  color: red;
+}
+
+p{
+    color: black
+}
+
+body {
+    background-color: lightyellow;
+    color: black;
+    text-align: center;
+}
+
+
+
