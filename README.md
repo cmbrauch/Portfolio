@@ -1,10 +1,10 @@
 # My Portfolio
 
-##### _A Website of my portfolio from work at Epicodus. May 29th, 2020_
+## _A Website of my portfolio from work at Epicodus. May 29th, 2020_
 
-###### _By Christopher Brauch_
+## _By Christopher Brauch_
 
-### Description
+## Description
 
 The purpose of this website is to create a portfolio for work done at Epicodus, while allowing the reader to learn about the author. Concurrently, it is supposed to showcase a knowledge that the author has learned and can implement tools learned throughout the week. Most importantly, it's use is to show a self-reliance of working own their own for the first time, and a resilience of the ability to work though bugs and problem-solve.
 
@@ -16,9 +16,13 @@ The purpose of this website is to create a portfolio for work done at Epicodus, 
 
 ## Known Bugs
 
-_It has shown that not all tools on styles.css seem to be working. 
-_It has shown that while styles.css works in preview in VS Code, it does not work using a github preview, implying that there are underlying issues with likely the location of styles.css in the github folder.
+_It has shown that not all tools on styles.css seem to be working._
 
+_It has shown that while styles.css works in preview in VS Code, it does not work using a github preview, implying that there are underlying issues with likely the location of styles.css in the github folder._
+
+_In attempts to fix the styles.css, I finally centered my images, only to push my numbers push all the way left._
+
+## Contact Information
 Please contact the author with questions, comments, or concerns
 Chris Brauch <cmbrauch00@gmail.com>
 
