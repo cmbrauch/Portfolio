@@ -3,6 +3,10 @@ div {
     padding: 16px
 }
 
+img {
+    float: center;
+}
+
 h1 {
     color: rgba(43, 41, 168, 0.938)
 }
@@ -22,3 +26,4 @@ div.a {
 p.thick{
     font-weight: 1000;
 }
+
