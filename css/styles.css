@@ -4,7 +4,12 @@ h1 {
 
 h2 {
   font-style: initial;
-  color: red;
+  color: black;
+}
+
+h3 {
+    font-family: 'Times New Roman', Times, serif;
+    color: orangered;
 }
 
 p{
@@ -17,5 +22,7 @@ body {
     text-align: center;
 }
 
-
-
+div {
+    display: inline-block;
+    text-align: left;
+}
