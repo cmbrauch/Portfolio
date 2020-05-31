@@ -2,6 +2,15 @@ h1 {
     color: blue
 }
 
+img {
+    Float: left;
+}
+
+.column {
+    width: 900px;
+    float: center;
+  }
+
 h2 {
   font-style: initial;
   color: black;

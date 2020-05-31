@@ -16,11 +16,12 @@ The purpose of this website is to create a portfolio for work done at Epicodus, 
 
 ## Known Bugs
 
-_It has shown that not all tools on styles.css seem to be working._
+_It has shown that not all tools on styles.css seem to be working._ **CORRECTED**
 
-_It has shown that while styles.css works in preview in VS Code, it does not work using a github preview, implying that there are underlying issues with likely the location of styles.css in the github folder._
+_It has shown that while styles.css works in preview in VS Code, it does not work using a github preview, implying that there are underlying issues with likely the location of styles.css in the github folder._ **CORRECTED**
 
 _In attempts to fix the styles.css, I finally centered my images, only to push my numbers push all the way left._
+**CORRECTED**
 
 ## Contact Information
 Please contact the author with questions, comments, or concerns
@@ -31,6 +32,7 @@ Chris Brauch <cmbrauch00@gmail.com>
 _Made in Windows 10_
 _Uploaded via GitBash_
 _Coded with VS Code_
+_Bootstrap enabled_
 
 This software is licensed under the MIT license.
 
