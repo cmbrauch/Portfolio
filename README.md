@@ -10,9 +10,7 @@ The purpose of this website is to create a portfolio for work done at Epicodus, 
 
 ## Setup/Instillation Requirements
 
-* _Clone this repository on https://github.com/cmbrauch/Portfolio
-* _Open it via VS Code_
-* _Run the command open Index.html or go https://github.com/cmbrauch/Portfolio
+* View webpage at https://cmbrauch.github.io/portfolio
 
 ## Known Bugs
 
