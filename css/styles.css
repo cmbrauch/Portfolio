@@ -1,5 +1,7 @@
-h1 {
-    color: blue
+body {
+    background-color: lightyellow;
+    color: black;
+    text-align: center;
 }
 
 .div1{ 
@@ -9,12 +11,31 @@ h1 {
         padding-right: 30px;
         padding-bottom: 45px;
         padding-left: 80px;
-      }
+}
+
+.div2{
+    border: 3px solid black;
+    background-color: lightblue;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    margin-right: 50px;
+    margin-left: 50px;
+}
 
 IMG.displayed {
-    border: none;
-    margin: 0 auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
     }
+
+h1 {
+    color: blue
+}
+
+h2 {
+  font-style: initial;
+  color: black;
+}
 
 img {
     Float: left;
@@ -25,27 +46,7 @@ img {
     float: center;
   }
 
-h2 {
-  font-style: initial;
-  color: black;
-}
-
-h3 {
-    font-family: 'Times New Roman', Times, serif;
-    color: orangered;
-}
-
-p{
-    color: black
-}
-
-body {
-    background-color: lightyellow;
-    color: black;
-    text-align: center;
-}
-
-div {
+div{
     display: inline-block;
     text-align: left;
 }
